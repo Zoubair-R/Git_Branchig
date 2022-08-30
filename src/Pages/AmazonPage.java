@@ -4,6 +4,8 @@ public class AmazonPage {
 
     // html for menu
 
-    // html fot the search button
+    // html for the search button
+
+    // html for deals page
 
 }
